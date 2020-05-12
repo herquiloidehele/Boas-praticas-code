@@ -1,0 +1,13 @@
+Git Conventions
+
+1-	Para todas tarefas devem-se abrir sempre novas branches;
+2-	Os nomes das branches devem seguir o seguinte padrão: <<codigo da tarefa>>-<<titulo da tarefa>>. Exemplo : 4325-fix-events-details-modal ;
+3-	Actualizar sempre o projecto antes de criar uma nova branch;
+4-	Dar prioridade sempre as tarefas com maior prioridade (passa a redundãncia);
+5-	Testar exaustivamente as soluções antes de abrir uma Merge Request (MR/PR);
+6-	Para tarefas que necessitam de revisão ainda em progresso colocar a Merge Request em WIP (Working in Progress);
+7-	Fazer tag dos membros da equipa nas PRs e mandar o link para o grupo de desenvolvimento;
+8-	Anotar todos bugs encontrados durante os testes (mesmo que não sejam referentes a actual tarefa) para que se criem tickets para posterior resolução;
+9-	Registar os tempos gastos em cada ticket;
+10-	Fazer revisão das PRs dos colegas quando solicitado;
+11-	Reportar dificuldades depois de tentar resolver sozinho.
